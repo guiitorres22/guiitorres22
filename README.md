@@ -8,12 +8,7 @@ Eu sou [Seu Nome], um entusiasta da tecnologia apaixonado por programação, des
 - 💬 Estou aberto a discussões sobre qualquer coisa relacionada à tecnologia, então sinta-se à vontade para me contatar.
 
 ### Linguagens e Ferramentas:
-![JavaScript](https://img.shields.io/badge/JavaScript-%E2%9D%A4-yellow?logo=javascript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-%E2%9D%A4-orange?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%E2%9D%A4-blue?logo=css3&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%E2%9D%A4-black?logo=linux&logoColor=white)
-![C](https://img.shields.io/badge/C-%E2%9D%A4-blue?logo=c&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-%E2%9D%A4-orange?logo=gnu-bash&logoColor=white)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%E2%9D%A4-yellow)](https://www.javascript.com/)
 
 ### Estatísticas do GitHub:
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)](https://github.com/seuusername)
