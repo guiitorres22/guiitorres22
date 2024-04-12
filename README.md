@@ -25,9 +25,3 @@ I'm Guilherme, a technology enthusiast passionate about programming, web develop
 
 ### Let's Connect!
 If you liked what you saw here, or if you just want to chat, don't hesitate to contact me. Let's connect!
-
-<p align="center">
-    <a href="https://www.yoursite.com">
-        <img src="https://img.shields.io/badge/Website-Your%20Personal%20Site-brightgreen" alt="Website" />
-    </a>
-</p>
