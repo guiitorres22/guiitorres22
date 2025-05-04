@@ -1,12 +1,4 @@
-## Hello, World!! 👋
 
-I'm Guilherme, a technology enthusiast passionate about programming, web development, and artificial intelligence. Welcome to my little corner on GitHub!
-
-- 4️⃣2️⃣ Studying Software Development at 42Porto in Portugal.
-- 🔭 Currently, I'm working on personal projects and exploring new technologies.
-- 🌱 I'm constantly learning and enhancing my programming skills.
-- 👯 I'm looking to collaborate on open-source projects tackling interesting challenges.
-- 💬 I'm open to discussions about anything related to technology, so feel free to contact me.
 
 ### 🧰 Languages and Tools
 
@@ -23,5 +15,4 @@ I'm Guilherme, a technology enthusiast passionate about programming, web develop
     <img alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </p>
 
-### Let's Connect!
-If you liked what you saw here, or if you just want to chat, don't hesitate to contact me. Let's connect!
+
